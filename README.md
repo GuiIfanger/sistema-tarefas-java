@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Tarefas (To-Do List) 🚀
+# Sistema de Gerenciamento de Tarefas (To-Do List) 
 
 Sistema desenvolvido em **Java Puro (JDK 21)** com foco na consolidação de conceitos fundamentais de Orientação a Objetos (POO), manipulação de coleções e tratamento de regras de negócio.
 
